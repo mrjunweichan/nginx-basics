@@ -1,4 +1,3 @@
-cat <<EOF >>/srv/firefox/nginx-grafana.json
 {
   "__inputs": [
     {
@@ -1117,4 +1116,3 @@ cat <<EOF >>/srv/firefox/nginx-grafana.json
   "version": 1,
   "weekStart": ""
 }
-EOF
